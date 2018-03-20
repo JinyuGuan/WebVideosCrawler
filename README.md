@@ -7,7 +7,7 @@ This is a python script for capturing the aids of videos in bilibili.com and aut
 
 The following dependencies are required and must be installed separately.
 
-* **[Python 3.0+](https://www.python.org/downloads/)(Anaconda(https://www.anaconda.com/download/) is strongly recommended)**
+* **[Python 3.0+](https://www.python.org/downloads/)([Anaconda](https://www.anaconda.com/download/) is strongly recommended)**
 * **[Lulu](https://github.com/iawia002/Lulu)**
 * **[selenium](https://www.seleniumhq.org/)**
 
