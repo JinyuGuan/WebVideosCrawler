@@ -15,6 +15,7 @@ The following dependencies are required and must be installed separately.
 
     $ pip install lulu
 upgrade:
+    
     $ pip install -U lulu
     
     $ pip install selenium
